@@ -1,0 +1,6 @@
+{
+  "name": "npsi.rocks.bingo",
+  "description": "Listen to the FC, survive the fleet, and mark off the bingo calls to win prizes!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
